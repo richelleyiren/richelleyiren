@@ -14,7 +14,7 @@
 - 💻 Find my works here 👉🏾 [https://github.com/richelleyiren](https://github.com/richelleyiren)
 - 📝 For now open to teaching anyone basic **html, css JavaScript**
 - 📫 Need me? Hit me up 👉🏾 **richelleyiren@gmail.com**
-- ⚡ Some cool stuff about me **I love to travel, play badminton and watching videos on interior decor 😅**
+- ⚡ Some cool stuff about me: **I love to travel, play badminton and watching videos on interior decor 😅**
 
 <h3 align="left">Connect with me:</h3>
 
