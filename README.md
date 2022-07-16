@@ -1,12 +1,12 @@
 # 
 
-![ CHEESE!]([https://www.codecademy.com/resources/blog/content/images/size/w2400/2021/10/What-is-collaborative-coding-.png](https://www.codecademy.com/resources/blog/content/images/size/w2400/2021/10/What-is-collaborative-coding-.png))
+
 
 <h1 align="center">Hello World,😊. Call me Richelle</h1>
 
 <h3 align="center">At one point, I swore I would never touch code in my life and now here I am, aspiring to be a great software engineer with a dream of working in big tech. The one thing I love about being a software engineer is the ability to bring to life whatever you can think of.</h3>
 
-<img align="right" alt="Coding" width="400" src=”[https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif](https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif)”>
+
 
 - 💻 Currently working on [a netflix clone](https://github.com/richelleyiren/Netflix-clone.git)
 - 📖 I’m forever learning **javascript, react, redux**
