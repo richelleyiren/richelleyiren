@@ -11,7 +11,7 @@
 - 💻 Currently working on [a netflix clone](https://github.com/richelleyiren/Netflix-clone.git)
 - 📖 I’m forever learning **javascript, react, redux**
 - 💻 Find my works here 👉🏾 [https://github.com/richelleyiren](https://github.com/richelleyiren)
-- 📝 For now open to teaching anyone basic **html, css JavaScript**
+- 📝 For now, I am open to teaching anyone basic **html, css JavaScript**
 - 📫 Need me? Hit me up 👉🏾 **richelleyiren@gmail.com**
 - ⚡ Some cool stuff about me **I love to travel, play badminton and watching videos on interior decor 😅**
 
